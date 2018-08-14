@@ -1,0 +1,19 @@
+{
+  "name": "jquery-ui-theme",
+  "version": "1.0.0",
+  "description": "## Version 1.0.0 ## Installation",
+  "main": "ui.datepicker-fr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yieloo/jquery-ui-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yieloo/jquery-ui-theme/issues"
+  },
+  "homepage": "https://github.com/Yieloo/jquery-ui-theme#readme"
+}
